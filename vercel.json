@@ -1,6 +1,5 @@
 
 {
-  "$schema": "https://openapi.vercel.sh/vercel.json",
-  "outputDirectory": "public"
+  "$schema": "https://openapi.vercel.sh/vercel.json"
 }
 
